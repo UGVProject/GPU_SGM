@@ -1,0 +1,1 @@
+./stereo_movie '/home/zh/test_data/02/image_0/00%04d.png' '/home/zh/test_data/02/image_1/00%04d.png'
